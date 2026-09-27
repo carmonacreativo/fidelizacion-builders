@@ -2,7 +2,7 @@
 
 **Nombre:** Leonardo Carmona
 
-**Usuario de GitHub:** [COMPLETAR]
+**Usuario de GitHub:** [carmonacreativo](https://github.com/carmonacreativo)
 
 ---
 

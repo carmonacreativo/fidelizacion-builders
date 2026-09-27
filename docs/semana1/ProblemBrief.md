@@ -43,7 +43,7 @@ Los comercios minoristas tienen dificultades para convertir compradores ocasiona
 
 | Integrante | Usuario de GitHub | Rol asumido |
 |---|---|---|
-| Leonardo Carmona | [COMPLETAR] | Desarrollo de la app y diseño de interfaz (UX/UI) |
+| Leonardo Carmona | [carmonacreativo](https://github.com/carmonacreativo) | Desarrollo de la app y diseño de interfaz (UX/UI) |
 | Daniel Correa Salinas | [correasalinasd](https://github.com/correasalinasd) | Estrategia |
 | Sergio [COMPLETAR apellido] | [COMPLETAR] | Desarrollo |
 
