@@ -7,7 +7,7 @@
 ### Problema elegido
 
 **Los comercios minoristas tienen dificultades para convertir compradores ocasionales en clientes recurrentes cuando sus beneficios de fidelización son difíciles de conocer, conservar y redimir.**
-Propuesto por: **Leonardo Carmona** ([`Leonardo.md`](./Leonardo.md)).
+Propuesto por: **Leonardo Carmona** ([`LeonardoCarmona.md`](./LeonardoCarmona.md)).
 
 ### Por qué elegimos este
 
@@ -20,8 +20,8 @@ Propuesto por: **Leonardo Carmona** ([`Leonardo.md`](./Leonardo.md)).
 
 | Propuesta | Quién la propuso | Motivo del descarte |
 |---|---|---|
-| [COMPLETAR] | Daniel Correa Salinas ([`Daniel.md`](./Daniel.md)) | [COMPLETAR] |
-| [COMPLETAR] | Sergio ([`Sergio.md`](./Sergio.md)) | [COMPLETAR] |
+| [COMPLETAR] | Daniel Correa Salinas ([`DanielCorrea.md`](./DanielCorrea.md)) | [COMPLETAR] |
+| [COMPLETAR] | Sergio ([`SergioApellido.md`](./SergioApellido.md)) | [COMPLETAR] |
 
 ### Cómo tomamos la decisión
 
