@@ -21,12 +21,11 @@ Propuesto por: **Leonardo Carmona** ([`LeonardoCarmona.md`](./LeonardoCarmona.md
 | Propuesta | Quién la propuso | Motivo del descarte |
 |---|---|---|
 | [COMPLETAR] | Daniel Correa Salinas ([`DanielCorrea.md`](./DanielCorrea.md)) | [COMPLETAR] |
-| [COMPLETAR] | Sergio ([`SergioApellido.md`](./SergioApellido.md)) | [COMPLETAR] |
 
 ### Cómo tomamos la decisión
 
 - **Fecha:** 25 de septiembre de 2026.
-- **Participantes:** Leonardo Carmona, Daniel Correa Salinas y Sergio.
+- **Participantes:** Leonardo Carmona y Daniel Correa Salinas.
 - **Método:** [COMPLETAR: consenso tras debate / votación] Cada integrante presentó su propuesta y el equipo las comparó según los criterios de la Sesión 1 y la posibilidad de validar el problema con comercios reales.
 
 ---
@@ -45,7 +44,6 @@ Los comercios minoristas tienen dificultades para convertir compradores ocasiona
 |---|---|---|
 | Leonardo Carmona | [carmonacreativo](https://github.com/carmonacreativo) | Desarrollo de la app y diseño de interfaz (UX/UI) |
 | Daniel Correa Salinas | [correasalinasd](https://github.com/correasalinasd) | Estrategia |
-| Sergio [COMPLETAR apellido] | [COMPLETAR] | Desarrollo |
 
 - **Responsable de las entregas:** [COMPLETAR]
 - **Canal de coordinación interna:** [COMPLETAR: p. ej. grupo de WhatsApp]
